@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "papaparse": "^5.2.0",
-    "survey-core": "../../../survey-library/build/survey-core"
+    "survey-core": "1.11.12"
   },
   "devDependencies": {
     "@types/ace": "0.0.32",
