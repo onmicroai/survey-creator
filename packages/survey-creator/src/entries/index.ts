@@ -194,6 +194,7 @@ export { PropertyEditorModalContent } from "../property-editors/modal-content";
 export { PropertyEditorTextViewModel } from "../property-editors/text";
 export { PropertyEditorStringsViewModel } from "../property-editors/strings";
 export { PropertyEditorConditionViewModel } from "../property-editors/condition";
+export { PropertyEditorVariablesViewModel } from "../property-editors/variables";
 export { PropertyEditorCellsViewModel } from "../property-editors/cells";
 export { PropertyEditorExpressionViewModel } from "../property-editors/expression";
 export { PropertyEditorHTMLViewModel } from "../property-editors/html-pe";
